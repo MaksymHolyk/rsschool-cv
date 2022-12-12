@@ -11,3 +11,19 @@
   - [Telegram] [https://t.me/Cameramanmaxim]
 
 ---
+
+## Professional Skils
+
+- HTML
+  - BEM
+- CSS
+  - SCSS
+- Java Script (Basic)
+- Figma
+
+---
+
+## My Progect / Work experiance
+
+- Freelance
+  - [Orttex] [https://ortteh.com]
